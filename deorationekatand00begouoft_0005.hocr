@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deorationekatand00begouoft_0005.png"; bbox 0 0 2077 3430; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 486 1529 1334 1703">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 486 1529 1334 1703">
+     <span class='ocr_line' id='line_1_1' title="bbox 486 1529 1334 1598; baseline -0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 486 1532 779 1598; x_wconf 81' lang='lat' dir='ltr'>PATRIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 829 1534 930 1594; x_wconf 89' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_3' title='bbox 977 1529 1334 1596; x_wconf 79' lang='lat' dir='ltr'>SORORIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 668 1638 1158 1703; baseline -0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 668 1638 1158 1703; x_wconf 81' lang='lat' dir='ltr'>MEMORIAE.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
